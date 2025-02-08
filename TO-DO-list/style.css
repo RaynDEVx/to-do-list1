@@ -1,0 +1,44 @@
+
+
+
+body{
+    background: #131212;
+}
+h1{
+    color: #ffffff;
+    font-size: 900;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+input[type="checkbox"]{
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+    color:#87c3eb;
+}
+input[type="text"]{
+    color:#ffd000;
+    background-color:#131212;
+    border-width: 0ch;
+}
+input[type="checkbox"] {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #ebd487;
+    border-radius: 4px;
+    background-color: #121212;
+}
+
+input[type="checkbox"]:checked {
+    background-color: #ffd000;
+}
+li:hover {
+    color: #ffa500;
+    text-decoration: underline;
+}
+button{
+    background-color: #131212;
+    border-width: 10px;
+    
+}
